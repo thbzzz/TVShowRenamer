@@ -1,5 +1,5 @@
 # TVShowRenamer
-![logo](https://github.com/0xthbz/TVShowRenamer/raw/master/res/logo.png)  
+<center>![logo](https://github.com/0xthbz/TVShowRenamer/raw/master/res/logo.png)</center>  
 Quickly rename "Downloaded.Legally.S01.E01.2019.Blue-ray.HDLight.x265.mkv" into "Downloaded Legally S01E01.mkv"
 
 ## Usage
